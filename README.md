@@ -57,11 +57,7 @@
 
 ## 📊 GitHub Metrics
 
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Anish-A-R&layout=donut&langs_count=4&theme=highcontrast" alt="Top languages" />
-</p>
-
-<p align="left">
+<p align="centre">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Anish-A-R&theme=highcontrast" alt="GitHub Streak" />
   </a>
