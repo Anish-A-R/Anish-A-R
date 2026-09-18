@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-  <p align="centre"> 
+  <p align="center"> 
     <a href="https://github.com/Anish-A-R"><img src="https://github-profile-trophy-unserori.vercel.app/?username=Anish-A-R&theme=darkhub" alt="Profile Trophy" />
     </a> 
   </p>
@@ -57,7 +57,7 @@
 
 ## 📊 GitHub Metrics
 
-<p align="centre">
+<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Anish-A-R&theme=highcontrast" alt="GitHub Streak" />
   </a>
