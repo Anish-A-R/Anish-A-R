@@ -9,8 +9,8 @@
 
 ---
 
-<div align="center">
-  <p align="left"> 
+<div align="left">
+  <p align="centre"> 
     <a href="https://github.com/Anish-A-R"><img src="https://github-profile-trophy-unserori.vercel.app/?username=Anish-A-R" alt="Profile Trophy" />
     </a> 
   </p>
