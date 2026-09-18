@@ -32,12 +32,12 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/anish-a-r" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anish-a-r linkedin" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/__anishar__" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__anishar__ instagram" height="30" width="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/anish-a-r/" target="_blank">
+  <img src="https://githubusercontent.com" alt="linkedin" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/__anishar__" target="_blank">
+  <img src="https://githubusercontent.com" alt="instagram" height="30" width="40" />
+</a>
 </p>
 
 ---
