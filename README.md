@@ -10,9 +10,10 @@
 ---
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Anish-A-R&theme=highcontrast" alt="GitHub Streak" />
-  </a>
+  <p align="left"> 
+    <a href="https://github.com/Anish-A-R"><img src="https://github-profile-trophy-unserori.vercel.app/?username=Anish-A-R" alt="Profile Trophy" />
+    </a> 
+  </p>
 </div>
 
 ---
@@ -57,10 +58,11 @@
 ## 📊 GitHub Metrics
 
 <p align="left">
-  <img src="https://vercel.app" alt="anish-a-r top languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Anish-A-R&layout=donut&langs_count=4&theme=highcontrast" alt="Top languages" />
 </p>
 
 <p align="left">
-  <img src="https://vercel.app" alt="anish-a-r github stats" />
-  <img src="https://herokuapp.com" alt="anish-a-r github streak" style="vertical-align: top;" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Anish-A-R&theme=highcontrast" alt="GitHub Streak" />
+  </a>
 </p>
