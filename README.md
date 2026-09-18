@@ -29,18 +29,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/anish-a-r/" target="_blank">
-  <img src="https://githubusercontent.com" alt="linkedin" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/__anishar__" target="_blank">
-  <img src="https://githubusercontent.com" alt="instagram" height="30" width="40" />
-</a>
-</p>
-
----
 
 ## 🛠️ Languages and Tools
 
