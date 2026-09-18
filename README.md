@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-a-r&label=Profile%20views&color=0e75b6&style=flat" alt="anish-a-r" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anish-a-r" alt="anish-a-r" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=anish-a-r](https://github-profile-trophy-unserori.vercel.app/?username=Anish-A-R)" alt="anish-a-r" /></a> </p>
 
 - 🔭 I’m currently working on [C-Learning-Journey](https://github.com/Anish-A-R/C-Learning-Journey)
 
