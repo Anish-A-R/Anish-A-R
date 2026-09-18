@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-unserori.vercel.app/?username=Anish-A-R" alt="anish-a-r github trophies" />
+    <img src="https://github-profile-trophy-unserori.vercel.app/?username=Anish-A-R&theme=darkhub" alt="anish-a-r github trophies" />
   </a>
 </div>
 
