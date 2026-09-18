@@ -10,8 +10,8 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-unserori.vercel.app/?username=Anish-A-R&theme=darkhub" alt="anish-a-r github trophies" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Anish-A-R&theme=highcontrast" alt="GitHub Streak" />
   </a>
 </div>
 
