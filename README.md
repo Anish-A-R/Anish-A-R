@@ -1,3 +1,13 @@
+<div align="center">
+  <h1>Hi 👋, I'm Anish A R</h1>
+  <h3>A passionate developer from India</h3>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=anish-a-r&label=Profile%20views&color=0e75b6&style=flat" alt="anish-a-r profile views" />
+  </p>
+</div>
+
+
 # 💫 About Me:
 🔭 Current Project: Working on the C-Learning-Journey repository.<br>🌱 Learning Focus: Deep diving into C Programming and Linux kernels/systems.<br>👨‍💻 Portfolio Web: Explore all of my personal projects at anishar.netlify.app.<br>💬 Ask Me About: Anything related to core C Programming.<br>📫 Reach Me At: Drop an email at anish2008q@gmail.com.<br>⚡ Fun Fact: Iam Stupid.
 
@@ -32,6 +42,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Anish-A-R&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-[![](https://komarev.com/ghpvc/?username=Anish-A-R&icon=0&color=)](https://visitcount.itsvg.in)
-
