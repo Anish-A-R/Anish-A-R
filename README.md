@@ -10,7 +10,11 @@
 ---
 
 # 💫 About Me:
-🔭 Current Project: Working on the C-Learning-Journey repository.<br>🌱 Learning Focus: Deep diving into C Programming and Linux kernels/systems.<br>👨‍💻 Portfolio Web: Explore all of my personal projects at anishar.netlify.app.<br>💬 Ask Me About: Anything related to core C Programming.<br>📫 Reach Me At: Drop an email at anish2008q@gmail.com.<br>⚡ Fun Fact: Iam Stupid.
+🔭 Current Project: Working on the C-Learning-Journey repository.<br>
+🌱 Learning Focus: Deep diving into C Programming and Linux kernels/systems.<br>
+👨‍💻 Portfolio Web: Explore all of my personal projects at [Portfolio Website](https://anishar.netlify.app).
+<br>💬 Ask Me About: Anything related to core C Programming.<br>
+📫 Reach Me At: Drop an email at anish2008q@gmail.com.<br>⚡ Fun Fact: Iam Stupid.
 
 ---
 
